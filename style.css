@@ -1,0 +1,66 @@
+
+body {
+    background-color: #e4dfd7;
+  }
+header{
+    
+    background-color: #8fd694;
+    font-family: cursive;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+nav{
+    text-align: center;
+    font-family: cursive;
+    text-decoration-line: none;
+    padding-left: 40px;
+    
+}
+
+.padre{
+    border: 1px;
+    display: inline-block;
+    width: auto;
+    margin: auto;
+   
+ }
+
+ .padre2{
+    border: 1px;
+    display: inline-block;
+    width: auto;
+   
+   
+ }
+
+
+header,nav,footer,section{
+    background-color: #8fd694;
+    border-style: 1;
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    text-align: center;
+    font-family: cursive;
+    
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    font-family: cursive;
+}
+
+article{
+    background-color: #6f8f72;
+    border-style: 1;
+    margin: 10px auto;
+    padding: 20px;
+    width: 25%;
+    font-family: cursive;
+    
+}
